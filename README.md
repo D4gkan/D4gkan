@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**D4gkan/D4gkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm D4gkan
 
-Here are some ideas to get you started:
+English teacher candidate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-D4gkan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/D4gkan)
+
+<br>
+
+![D4gkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4gkan&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D4gkan&layout=compact&theme=default&hide_border=true)
+
+</div>
